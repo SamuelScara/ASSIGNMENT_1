@@ -22,3 +22,4 @@
 - AMD Ryzen Threadripper 3970X
 - AMD Ryzen 7 5700G
 
+Elettronica Padovana
