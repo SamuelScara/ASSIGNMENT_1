@@ -3,6 +3,8 @@
 
 # componenti
 
+# Periferiche
+
 # Schede madri
 - Asus. ROG Maximus XIII Hero.
 - MSI. MEG Z490 Godlike.
