@@ -1,6 +1,8 @@
 2012435
 2008077
 
+# componenti
+
 # Schede madri
 - Asus. ROG Maximus XIII Hero.
 - MSI. MEG Z490 Godlike.
